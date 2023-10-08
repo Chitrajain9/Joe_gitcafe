@@ -7,3 +7,4 @@
 *Maple-Oat Sticky Cake
 *Moroccan Coffee
 *Saudi Arabian Kahwa
+*signature_latte
